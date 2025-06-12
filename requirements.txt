@@ -1,0 +1,12 @@
+streamlit
+psycopg2
+pandas
+numpy
+python-dotenv
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+requests
+xlsxwriter
